@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3f46"/><stop offset="1" stop-color="#1b1d21"/></linearGradient>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern></defs>
+<rect width="800" height="600" fill="url(#s)"/><rect width="800" height="600" fill="url(#g)"/>
+<circle cx="624.0" cy="320" r="120" fill="#F28C1E" fill-opacity=".16"/>
+<rect x="250" y="300" width="300" height="170" fill="#2c3036"/><polygon points="230,300 400.0,205 570,300" fill="#4a5058"/>
+<rect x="376.0" y="375" width="48" height="95" fill="#F28C1E"/><rect x="280" y="340" width="64" height="56" fill="#cfd6dc" fill-opacity=".35"/><rect x="456" y="340" width="64" height="56" fill="#cfd6dc" fill-opacity=".35"/><g stroke="#F28C1E" stroke-width="6" fill="none"><line x1="580" y1="470" x2="640" y2="250"/><line x1="620" y1="470" x2="680" y2="250"/></g><g stroke="#F28C1E" stroke-width="4"><line x1="590" y1="430" x2="630" y2="430"/><line x1="598" y1="390" x2="638" y2="390"/><line x1="606" y1="350" x2="646" y2="350"/><line x1="614" y1="310" x2="654" y2="310"/></g>
+<rect y="470" width="800" height="130" fill="#1d2024"/><rect y="470" width="800" height="5" fill="#F28C1E"/>
+</svg>
